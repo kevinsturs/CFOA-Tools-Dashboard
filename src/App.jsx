@@ -30,15 +30,7 @@ const tools = [
     status: "soon",
     added: "",
   },
-  {
-    id: 4,
-    name: "Crypto Tool",
-    description: "Your next crypto tool will appear here once it's ready.",
-    category: "Crypto",
-    url: "#",
-    status: "soon",
-    added: "",
-  },
+
   {
   id: 5,
   name: "Reconciliation Review v1",
