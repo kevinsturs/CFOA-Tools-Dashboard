@@ -39,6 +39,15 @@ const tools = [
     status: "soon",
     added: "",
   },
+  {
+  id: 5,
+  name: "Reconciliation Review v1",
+  description: "Use AI to Analyze Koinly Reconciliation",
+  category: "Crypto",
+  url: "https://vite-react-qr4q3v4tu-kevin-7928s-projects.vercel.app/",
+  status: "live",
+  added: "Mar 2026",
+},
 ];
 
 const categories = ["All", "Tax", "Payroll", "Financial Reporting", "Crypto"];
