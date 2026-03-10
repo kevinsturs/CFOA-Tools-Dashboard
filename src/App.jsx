@@ -30,7 +30,6 @@ const tools = [
     status: "soon",
     added: "",
   },
-
   {
   id: 5,
   name: "Reconciliation Review v1",
@@ -38,8 +37,7 @@ const tools = [
   category: "Crypto",
   url: "https://vite-react-qr4q3v4tu-kevin-7928s-projects.vercel.app/",
   status: "live",
-  added: "Mar 2026",
-    
+  added: "Mar 2026",  
 },
   {
     id: 6,
