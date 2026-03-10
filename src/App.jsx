@@ -39,7 +39,17 @@ const tools = [
   url: "https://vite-react-qr4q3v4tu-kevin-7928s-projects.vercel.app/",
   status: "live",
   added: "Mar 2026",
+    
 },
+  {
+    id: 6,
+    name: "Uncategorized Transactions Formatting",
+    description: "Formats and organizes uncategorized transactions for clean reporting and review.",
+    category: "Crypto",
+    url: "https://uncategorized-txn-format-cdhd-18ac91zs1-kevin-7928s-projects.vercel.app/",
+    status: "live",
+    added: "Mar 2026",
+  },
 ];
 
 const categories = ["All", "Tax", "Payroll", "Financial Reporting", "Crypto"];
