@@ -57,6 +57,15 @@ const tools = [
     status: "live",
     added: "Mar 2026",
   },
+  {
+    id: 8,
+    name: "Test Page",
+    description: "Pipeline validation page confirming the GitHub → Vercel deploy flow is live and connected.",
+    category: "Financial Reporting",
+    url: "https://cfoa-test-page.vercel.app",
+    status: "live",
+    added: "Mar 2026",
+  },
 ];
 
 const categories = ["All", "Tax", "Payroll", "Financial Reporting", "Crypto"];
