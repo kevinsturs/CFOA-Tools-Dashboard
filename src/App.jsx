@@ -48,6 +48,15 @@ const tools = [
     status: "live",
     added: "Mar 2026",
   },
+  {
+    id: 7,
+    name: "State Compliance Dashboard",
+    description: "Track state-level tax nexus thresholds, compliance requirements, and economic presence rules across all 50 states.",
+    category: "Tax",
+    url: "https://state-compliance-dashboard.vercel.app",
+    status: "live",
+    added: "Mar 2026",
+  },
 ];
 
 const categories = ["All", "Tax", "Payroll", "Financial Reporting", "Crypto"];
