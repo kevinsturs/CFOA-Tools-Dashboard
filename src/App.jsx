@@ -44,7 +44,7 @@ const tools = [
     name: "Uncategorized Transactions Formatting",
     description: "Formats and organizes uncategorized transactions for clean reporting and review.",
     category: "Crypto",
-    url: "https://uncategorized-txn-format-cdhd-18ac91zs1-kevin-7928s-projects.vercel.app/",
+    url: "https://uncategorized-txn-format.vercel.app/",
     status: "live",
     added: "Mar 2026",
   },
